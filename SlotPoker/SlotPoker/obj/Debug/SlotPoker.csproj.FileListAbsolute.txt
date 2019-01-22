@@ -1,0 +1,20 @@
+C:\Users\mwilk\source\repos\SlotPoker\SlotPoker\bin\Debug\SlotPoker.exe.config
+C:\Users\mwilk\source\repos\SlotPoker\SlotPoker\bin\Debug\SlotPoker.exe
+C:\Users\mwilk\source\repos\SlotPoker\SlotPoker\bin\Debug\SlotPoker.pdb
+C:\Users\mwilk\source\repos\SlotPoker\SlotPoker\obj\Debug\SlotPoker.Form1.resources
+C:\Users\mwilk\source\repos\SlotPoker\SlotPoker\obj\Debug\SlotPoker.Properties.Resources.resources
+C:\Users\mwilk\source\repos\SlotPoker\SlotPoker\obj\Debug\SlotPoker.csproj.GenerateResource.cache
+C:\Users\mwilk\source\repos\SlotPoker\SlotPoker\obj\Debug\SlotPoker.csproj.CoreCompileInputs.cache
+C:\Users\mwilk\source\repos\SlotPoker\SlotPoker\obj\Debug\SlotPoker.exe
+C:\Users\mwilk\source\repos\SlotPoker\SlotPoker\obj\Debug\SlotPoker.pdb
+C:\Users\mwilk\source\repos\SlotPoker\SlotPoker\obj\Debug\SlotPoker.csprojAssemblyReference.cache
+D:\MORGANS BACKUP\SlotPoker\SlotPoker\bin\Debug\SlotPoker.exe.config
+D:\MORGANS BACKUP\SlotPoker\SlotPoker\bin\Debug\SlotPoker.exe
+D:\MORGANS BACKUP\SlotPoker\SlotPoker\bin\Debug\SlotPoker.pdb
+D:\MORGANS BACKUP\SlotPoker\SlotPoker\obj\Debug\SlotPoker.csprojAssemblyReference.cache
+D:\MORGANS BACKUP\SlotPoker\SlotPoker\obj\Debug\SlotPoker.Form1.resources
+D:\MORGANS BACKUP\SlotPoker\SlotPoker\obj\Debug\SlotPoker.Properties.Resources.resources
+D:\MORGANS BACKUP\SlotPoker\SlotPoker\obj\Debug\SlotPoker.csproj.GenerateResource.cache
+D:\MORGANS BACKUP\SlotPoker\SlotPoker\obj\Debug\SlotPoker.csproj.CoreCompileInputs.cache
+D:\MORGANS BACKUP\SlotPoker\SlotPoker\obj\Debug\SlotPoker.exe
+D:\MORGANS BACKUP\SlotPoker\SlotPoker\obj\Debug\SlotPoker.pdb
